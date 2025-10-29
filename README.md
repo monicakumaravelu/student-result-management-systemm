@@ -32,10 +32,23 @@ A full-stack web application for managing and viewing student academic results.
 <img width="848" height="899" alt="Screenshot 2025-10-29 144234" src="https://github.com/user-attachments/assets/6a3d0ed5-120a-45a9-9153-4a3b0e71d102" />
 
 # OUTPUT 
+- admin log-in page
 <img width="1918" height="1004" alt="Screenshot 2025-10-29 025003" src="https://github.com/user-attachments/assets/96abb5db-0164-4a29-93f7-aad95c848995" />
+- admin portal
 <img width="1918" height="1071" alt="Screenshot 2025-10-29 025020" src="https://github.com/user-attachments/assets/3171cb6d-e863-468a-92f3-6339ea664573" />
+- student login page
 <img width="1919" height="1013" alt="Screenshot 2025-10-29 025103" src="https://github.com/user-attachments/assets/f4d44f90-06b9-416e-8b84-86ff67cf37da" />
+- student portal
 <img width="1919" height="1062" alt="Screenshot 2025-10-29 025120" src="https://github.com/user-attachments/assets/f898dfa3-d4b3-4d5b-8437-bc6b592f09f6" />
+
+# CONCLUSION 
+- The Student Result Management System (SRMS) successfully automates the process of managing student results.
+- It ensures accuracy, efficiency, and transparency in result processing.
+- The integration of React.js, Spring Boot, and MySQL provides a powerful, scalable, and user-friendly platform.
+- Both admins and students benefit from real-time data access and secure system operations.
+
+
+
 
 
 
