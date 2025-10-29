@@ -51,6 +51,15 @@ A full-stack web application for managing and viewing student academic results.
 │   ├── package.json          
 |   └── README.md                          
 
+# OUTPUT 
+<img width="1918" height="1004" alt="Screenshot 2025-10-29 025003" src="https://github.com/user-attachments/assets/96abb5db-0164-4a29-93f7-aad95c848995" />
+<img width="1918" height="1071" alt="Screenshot 2025-10-29 025020" src="https://github.com/user-attachments/assets/3171cb6d-e863-468a-92f3-6339ea664573" />
+<img width="1919" height="1013" alt="Screenshot 2025-10-29 025103" src="https://github.com/user-attachments/assets/f4d44f90-06b9-416e-8b84-86ff67cf37da" />
+<img width="1919" height="1062" alt="Screenshot 2025-10-29 025120" src="https://github.com/user-attachments/assets/f898dfa3-d4b3-4d5b-8437-bc6b592f09f6" />
+
+
+
+
 
 
 
