@@ -19,10 +19,11 @@ A full-stack web application for managing and viewing student academic results.
 - Server: Embedded Tomcat
 
 # NOTE 
--since this project uses maven file the entire folder cannot be uploaded (eclipse is Used for backend and vs code for frontend )
--only the code files are uploaded in this repository 
--this project requires NPM to run and uses maven in backend 
--the output is attached in the PPT file
+ - since this project uses maven file the entire folder cannot be uploaded (eclipse is Used for backend and vs code for frontend )
+ - only the code files are uploaded in this repository 
+ - this project requires NPM to run and uses maven in backend 
+ - the output is attached in the PPT file
+ - the PPT FILE is under folder "PPT PRESENTATION" as a RAW FILE 
 #  the file structure is
 # frontend 
 <img width="433" height="633" alt="Screenshot 2025-10-29 144357" src="https://github.com/user-attachments/assets/cdb43739-2837-4fc2-8062-b50b2f2caa8b" />
