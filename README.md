@@ -23,33 +23,11 @@ A full-stack web application for managing and viewing student academic results.
 -only the code files are uploaded in this repository 
 -this project requires NPM to run and uses maven in backend 
 -the output is attached in the PPT file
-- the file structure is
-#- student-result-management-systemm/ (this is the entire project file).
-│
-├── src/                      
-│   ├── main/java/com/srms/
-│   │   ├── controller/       
-│   │   ├── model/            
-│   │   ├── repository/       
-│   │   └── SrmsApplication.java  
-│   └── main/resources/
-│       └── application.properties 
-│
-├── pom.xml                   
-│
-├── tempfrontend/            
-│   ├── public/              
-│   ├── src/                  
-│   │   ├── components/
-│   │   │   ├── AdminDashboard.js
-│   │   │   ├── AdminLogin.js
-│   │   │   ├── StudentDashboard.js
-│   │   │   └── StudentLogin.js
-│   │   ├── App.js
-│   │   ├── index.js
-│   │   └── App.css
-│   ├── package.json          
-|   └── README.md                          
+# - the file structure is
+# frontend 
+<img width="433" height="633" alt="Screenshot 2025-10-29 144357" src="https://github.com/user-attachments/assets/cdb43739-2837-4fc2-8062-b50b2f2caa8b" />
+# Backend 
+<img width="848" height="899" alt="Screenshot 2025-10-29 144234" src="https://github.com/user-attachments/assets/6a3d0ed5-120a-45a9-9153-4a3b0e71d102" />
 
 # OUTPUT 
 <img width="1918" height="1004" alt="Screenshot 2025-10-29 025003" src="https://github.com/user-attachments/assets/96abb5db-0164-4a29-93f7-aad95c848995" />
