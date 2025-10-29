@@ -24,8 +24,7 @@ A full-stack web application for managing and viewing student academic results.
 -this project requires NPM to run and uses maven in backend 
 -the output is attached in the PPT file
 - the file structure is
-- 
-- student-result-management-systemm/ (this is the entire project file).
+#- student-result-management-systemm/ (this is the entire project file).
 │
 ├── src/                      
 │   ├── main/java/com/srms/
@@ -51,4 +50,15 @@ A full-stack web application for managing and viewing student academic results.
 │   │   └── App.css
 │   ├── package.json          
 |   └── README.md                          
+
+
+
+
+
+
+
+
+
+
+
 
