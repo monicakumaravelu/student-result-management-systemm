@@ -23,9 +23,10 @@ A full-stack web application for managing and viewing student academic results.
 -only the code files are uploaded in this repository 
 -this project requires NPM to run and uses maven in backend 
 -the output is attached in the PPT file
-# - the file structure is
+#  the file structure is
 # frontend 
 <img width="433" height="633" alt="Screenshot 2025-10-29 144357" src="https://github.com/user-attachments/assets/cdb43739-2837-4fc2-8062-b50b2f2caa8b" />
+
 # Backend 
 <img width="848" height="899" alt="Screenshot 2025-10-29 144234" src="https://github.com/user-attachments/assets/6a3d0ed5-120a-45a9-9153-4a3b0e71d102" />
 
